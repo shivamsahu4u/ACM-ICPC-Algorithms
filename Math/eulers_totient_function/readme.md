@@ -29,3 +29,4 @@ gcd(1, 6) is 1 and gcd(5, 6) is 1
 A simple solution is to iterate through all numbers from 1 to n-1 and count numbers with gcd with n as 1. 
 
 
+#my changes.
